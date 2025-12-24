@@ -1,0 +1,12 @@
+{
+  "name": "zypher-agent-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "deno run -A main.ts",
+    "test": "deno test -A main_test.ts"
+  },
+  "devDependencies": {
+    "firecrawl-mcp": "^3.6.2"
+  }
+}
