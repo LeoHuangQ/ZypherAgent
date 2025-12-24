@@ -21,3 +21,6 @@ This project demonstrates how to build an AI Agent using Zypher. This project al
     - Account with registration + Conversation session history management
     - Scale for the server
     - Integrate with other tools to empower
+
+ Screenshot for the application: 
+<img width="476" height="751" alt="Screenshot 2025-12-24 at 3 41 31 AM" src="https://github.com/user-attachments/assets/5ce18648-c37b-461c-a5d0-0c1e3caa7c9f" />
