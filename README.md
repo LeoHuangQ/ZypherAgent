@@ -1,10 +1,14 @@
-Zypher Agent Project
+Zypher Agent Project - Context-Aware AI Search Agent
 
-1. Product - AI Search Engine with context
+1. Project Overview
+This project demonstrates how to build an AI Agent using Zypher, CoreSpeed’s agent framework.
+End users act like an prompt engineer. Based on the query script context, the Zypher agent uses the AI model and tools to search and reasoning to provide the answers for the user.
+
 2. Structure 
 	- AI model: Claude Anthropic
-    - MCP server for web crawling: Firecrawl
-    - Backend - node server + Zypher Agent
+    - Zypher Agent
+    - MCP server (Tool): Firecrawl for web crawling
+    - Backend - Deno + Node server
 	- Frontend - React
 3. How to run the project
     - backend command: deno run -A main.ts
