@@ -1,8 +1,7 @@
 Zypher Agent Project - Context-Aware AI Search Agent
 
 1. Project Overview
-This project demonstrates how to build an AI Agent using Zypher, CoreSpeed’s agent framework.
-End users act like an prompt engineer. Based on the query script context, the Zypher agent uses the AI model and tools to search and reasoning to provide the answers for the user.
+This project demonstrates how to build an AI Agent using Zypher. This project allows the end users act like prompt engineers, providing both a query and contextual instructions. Based on the user’s query and supplied context, the Zypher agent leverages the AI model and tools to  search, reason, and respond intelligently.
 
 2. Structure 
 	- AI model: Claude Anthropic
